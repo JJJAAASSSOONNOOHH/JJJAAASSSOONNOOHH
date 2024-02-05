@@ -1,15 +1,13 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=000&text=Hello%20World!&fontColor=AB90FF&reversal=true&desc=Jason%20Soljin%20Noh's%20GitHub&descAlignY=84&fontAlignY=46&animation=twinkling&stroke=blue&fontAlign=50" alt="header">
-</div>
-<br>
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJJAAASSSOONNOOHH&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JJJAAASSSOONNOOHH&include_all_commits=true&theme=nord&hide_border=true&count_private=true" alt="JJJAAASSSOONNOOHH's GitHub stats">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=timeGradient" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=9F76F7&multiline=true&random=false&width=435&lines=Hello+World!;It's+Soljin+Noh's+Github!" alt="Typing SVG" /></a>
+<hr>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJJAAASSSOONNOOHH&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
+<img src="https://github-readme-stats.vercel.app/api?username=JJJAAASSSOONNOOHH&include_all_commits=true&theme=nord&hide_border=true&count_private=true" alt="JJJAAASSSOONNOOHH's GitHub stats">
 
-<br>
-
+## Skills
+<div style="display:flex; flex-direction:row;">
+  Java
+</div>
 
 Here are some ideas to get you started:
 
