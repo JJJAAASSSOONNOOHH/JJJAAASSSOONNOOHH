@@ -1,8 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=2000&color=000000&multiline=true&random=false&width=600&lines=Hello+World!+It's+Soljin+Noh's+Github!" alt="Typing SVG" /></a>
 ## Stats: 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJJAAASSSOONNOOHH&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
-<img src="https://github-readme-stats.vercel.app/api?username=JJJAAASSSOONNOOHH&include_all_commits=true&theme=nord&hide_border=true&count_private=true" alt="JJJAAASSSOONNOOHH's GitHub stats">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJJAAASSSOONNOOHHh&layout=compact)](https://github.com/JJJAAASSSOONNOOHH/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJJAAASSSOONNOOHH&layout=donut">  
+  <img src="https://github-readme-stats.vercel.app/api?username=JJJAAASSSOONNOOHH&include_all_commits=true&count_private=true" alt="JJJAAASSSOONNOOHH's GitHub stats">
+</div>
+
 
 ## Skills
 <div id="languages">
