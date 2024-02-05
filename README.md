@@ -1,8 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20World!&reversal=true&textBg=false&fontSize=50&fontAlign=50&animation=twinkling&desc=Jason%20Noh's%20Github&descSize=25&descAlignY=61&fontAlignY=40)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=000&text=Hello%20World!&fontColor=AB90FF&reversal=true&desc=Jason%20Soljin%20Noh's%20GitHub&descAlignY=84&fontAlignY=46&animation=twinkling&stroke=blue&fontAlign=50" alt="header">
+</div>
+<br>
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJJAAASSSOONNOOHH&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JJJAAASSSOONNOOHH&include_all_commits=true&theme=nord&hide_border=true&count_private=true" alt="JJJAAASSSOONNOOHH's GitHub stats">
+</div>
 
+<br>
 
-
-### Hi there 👋
 
 Here are some ideas to get you started:
 
