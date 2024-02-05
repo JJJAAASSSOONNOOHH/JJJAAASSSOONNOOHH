@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=2000&color=000000&multiline=true&random=false&width=600&lines=Hello+World!+It's+Soljin+Noh's+Github!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=2000&color=FFFFFF&background=000000&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+It's+Soljin+Noh's+Github!" alt="Typing SVG" /></a>
 
 ## About Me:
 안녕하세요. 저는 Backend 개발자 노솔진이라고 합니다.
