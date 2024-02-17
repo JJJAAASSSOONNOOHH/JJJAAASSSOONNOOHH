@@ -27,7 +27,10 @@
 ## Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:thfwls92@gmail.com)
-[![Tistory](https://img.shields.io/badge/Tistory-ff7f00?style=for-the-badge)](https://dev-field-new.tistory.com)
+<a href="https://dev-field-new.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-ff7f00?style=for-the-badge" alt="Tistory">
+</a>
+
 
 
 
