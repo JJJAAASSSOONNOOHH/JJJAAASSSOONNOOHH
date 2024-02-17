@@ -25,12 +25,11 @@
 </div>
 
 ## Contacts
-<a href="mailto:thfwls92@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-</a>
-<a href="https://dev-field-new.tistory.com">
-  <img alt="Tistory" src="https://img.shields.io/badge/Tistory-ff7f00">
-</a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:thfwls92@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-ff7f00?style=for-the-badge)](https://dev-field-new.tistory.com)
+
+
 
 ## Stats: 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJJAAASSSOONNOOHH&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
